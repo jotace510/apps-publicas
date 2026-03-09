@@ -10,4 +10,4 @@ Aplicación para reducir el tamaño de archivos PDF.
 ## Descarga
 
 Descarga la última versión desde la sección **Releases** del repositorio.
-https://github.com/jotace510/apps-publicas/tree/pdf-compressor-v2.0
+https://github.com/jotace510/apps-publicas/releases
